@@ -1,13 +1,1 @@
-session handels the user and session stuff. there will be one backend for stuff related to posts and one for..?
-
-session/user stuff:
-
-every is_in_session must be repracedby a question to the session.
-
-I need a new table in the db for users that are in a session. // or I'm just lazy and say that the session data is lost after a reboot and just make a table
-
-I need to create identifier (random number) for a user in a session, this id will be stored in a cookie on the browser (use Flask Cookie or so).
-
-Does a client has a session? No.. Anyway I put the whole oauth stuff in the session. Why: close to user / client / I can verify wheater the tokens are still valid every time I want to use it...
-
-
+blabla....
